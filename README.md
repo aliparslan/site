@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the cool zone 😎
 
 You can use the [editor on GitHub](https://github.com/aliparslan/site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
